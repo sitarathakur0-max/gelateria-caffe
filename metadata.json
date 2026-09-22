@@ -1,0 +1,6 @@
+{
+  "name": "Gelateria Salvati, Caffè Cioccolato",
+  "description": "Artisanal gelateria and Italian café at Lindenplatz 4 in Zürich, serving authentic Italian gelato, specialty espresso coffee, and fine chocolate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
